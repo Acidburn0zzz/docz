@@ -25,7 +25,7 @@
     "babel-plugin-export-metadata": "^2.3.0",
     "copy-text-to-clipboard": "^2.1.0",
     "fs-extra": "^8.1.0",
-    "gatsby": "^2.13.27",
+    "gatsby": "^4.25.7",
     "gatsby-plugin-alias-imports": "^1.0.5",
     "gatsby-plugin-catch-links": "^2.3.0",
     "gatsby-plugin-compile-es6-packages": "^2.0.0",
